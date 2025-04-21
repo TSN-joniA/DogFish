@@ -1,0 +1,27 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-NRPH04R"]
+[Date "2024.10.18"]
+[Round "?"]
+[White "DogFish"]
+[Black "DogFish"]
+[Result "1/2-1/2"]
+[BlackElo "2000"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "11:28:33"]
+[Variation "1...d5 2.e4 dxe4"]
+[WhiteElo "2000"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "77"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. Nc3 dxe4 3. Nxe4 Nf6 4. f3 e5 5. Bb5+ c6 6. Nxf6+ Qxf6 7. Bf1
+Be6 8. d3 Bc5 9. c3 Bxg1 10. d4 Bxd4 11. cxd4 Qh4+ 12. g3 Qxd4 13. Qxd4
+exd4 14. Bf4 Nd7 15. Bg2 f5 16. O-O-O Bxa2 17. Rxd4 Nc5 18. Re1+ Kf7 19.
+Kc2 Rhe8 20. Re5 Rxe5 21. Bxe5 Re8 22. f4 g5 23. b4 Ne6 24. Rd7+ Re7 25.
+Rxe7+ Kxe7 26. fxg5 Nxg5 27. Bb8 Bd5 28. Bxd5 cxd5 29. Bxa7 h5 30. b5 Ne4
+31. Bd4 Ng5 32. Kd3 Nf3 33. h4 Nxd4 34. Kxd4 Kd6 35. b6 Ke6 36. Kc3 Kd6 37.
+Kd4 Ke6 38. Kc3 Kd6 39. Kd4 {3-fold repetition} 1/2-1/2
+

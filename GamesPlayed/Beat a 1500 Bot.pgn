@@ -1,0 +1,25 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-NRPH04R"]
+[Date "2024.10.20"]
+[Round "?"]
+[White "DogFish"]
+[Black "Jonatan"]
+[Result "1-0"]
+[BlackElo "2400"]
+[ECO "D00"]
+[Opening "Queen's Pawn"]
+[Time "22:25:30"]
+[Variation "2.e3 Nf6"]
+[WhiteElo "2000"]
+[Termination "normal"]
+[PlyCount "61"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. d4 d5 2. e3 Nf6 3. f4 Qd6 4. Nd2 Qd8 5. Ngf3 b5 6. a4 b4 7. Bd3 Qd6 8.
+O-O Nc6 9. Ne5 Nxe5 10. fxe5 Qb6 11. exf6 exf6 12. a5 Qd6 13. c4 bxc3 14.
+bxc3 Qe7 15. e4 c6 16. Re1 Rb8 17. exd5 Be6 18. dxe6 fxe6 19. Ne4 Qf7 20.
+Qf3 Rc8 21. Bf4 g5 22. Nd6+ Bxd6 23. Bxd6 Kd7 24. Bc5 Rhd8 25. Rxe6 Qxe6
+26. Bf5 Re8 27. Qg3 Rcd8 28. Qd6+ Kc8 29. Qxc6+ Kb8 30. Rb1+ Qb3 31. Rxb3#
+1-0
+
